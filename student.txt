@@ -1,0 +1,4 @@
+student name : B.poorna chandrika
+rollno : 12
+class : BSC -A
+age : 20 
